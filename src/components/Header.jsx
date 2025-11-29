@@ -6,7 +6,7 @@ const Header = ({ search, setSearch, handleSearch }) => (
         <div className="max-w-4xl mx-auto">
             <div className="text-4xl md:text-6xl font-extrabold mb-4 flex justify-center align-center drop-shadow-md">
                 <img src={catsImage} alt="" className="w-20" />
-                <span className="mt-4">Hell Cat's Recipes</span>
+                <span className="mt-4">Hell Cat's Meal Explorer</span>
             </div>
             <p className="text-lg opacity-90">Search. Cook. Enjoy.</p>
 
